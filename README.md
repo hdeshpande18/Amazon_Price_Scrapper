@@ -26,6 +26,3 @@ Built using Nodejs and Socket framework.It has the following features for users
 1. Node.js
 2. Basic HTML,CSS and JQuery
 3. Socket Programming
-
-## Deployment
-https://still-dawn-80634.herokuapp.com/
